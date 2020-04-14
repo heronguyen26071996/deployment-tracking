@@ -1,0 +1,2 @@
+(this["webpackJsonpdemo-app-router"]=this["webpackJsonpdemo-app-router"]||[]).push([[11],{435:function(e,a,t){"use strict";t.r(a);var n=t(0),r=t.n(n);t(87);a.default=function(){return r.a.createElement("div",{className:"dvModal"},r.a.createElement("h2",null," Trang Ch\u1ee7"))}}}]);
+//# sourceMappingURL=11.ab1b2778.chunk.js.map
