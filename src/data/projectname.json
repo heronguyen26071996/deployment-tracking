@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Dự án Kim Nguyên",
+      "code":"KN"
+      
+    },
+    {
+      "name": "Dự án Kim Thành",
+      "code":"KT"
+    },
+    {
+    
+      "name": "Dự án Mỹ Đức",
+      "code":"MĐ"
+    }, {
+    
+      "name": "Dự án Văn Tung",
+      "code":"VT"
+    }, {
+    
+      "name": "Dự án  Thanh Thanh",
+      "code":"TT"
+    },{
+    
+      "name": "Dự án  Tung",
+      "code":"T"
+    },{
+    
+      "name": "Dự án  Thiên Thanh",
+      "code":"TTT"
+    },{
+    
+      "name": "Dự án  Kim Văn",
+      "code":"KV"
+    },{
+    
+      "name": "Dự án  Mã Thăng",
+      "code":"MT"
+    },{
+    
+      "name": "Dự án  La Thành",
+      "code":"LT"
+    }
+    ,{
+    
+      "name": "Dự án  Minh Tín",
+      "code":"MT"
+    }
+    ,{
+    
+      "name": "Dự án  QWR",
+      "code":"QWR"
+    },{
+    
+      "name": "Dự án  ETB",
+      "code":"ETB"
+    }
+  ]
+  

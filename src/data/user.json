@@ -1,0 +1,25 @@
+[
+    {
+      "key": "1",
+      "name": "admin",
+      "permission":"Quản trị",
+      "email":"admin@gmail.com",
+      "password":"1",
+      "actived":"Có"
+    },
+    {
+      "key": "2",
+      "name": "Hùng Anh",
+      "permission":"Người dùng",
+      "email":"anh@gmail.com",
+      "password":"1",
+      "actived":"Có"
+    },
+    {
+      "key": "3",
+      "name": "Người dùng 1",
+      "email":"user@gmail.com",
+      "password":"1",
+      "actived":"Có"
+    }
+  ]
